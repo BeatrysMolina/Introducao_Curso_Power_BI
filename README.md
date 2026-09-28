@@ -1,2 +1,9 @@
-# Introdu-o_Curso_Power_BI
-Projeto de introdução ao Power BI com o fluxo completo de BI: tratamento de dados no Power Query, modelagem e criação de dashboards interativos.
+# Introdução ao Power BI
+
+Projeto prático focado nos primeiros passos em Business Intelligence:
+
+* **Tratamento:** Limpeza e carga básica de dados
+* **Análise:** Entendimento e exploração das informações
+* **Visualização:** Montagem e formatação dos visuais
+
+📥 *Faça o download do arquivo `.pbix` para interagir no Power BI Desktop.*
