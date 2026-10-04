@@ -1,9 +1,19 @@
-# Introdução ao Power BI
+# Curso de Power BI 🚀
 
-Projeto prático focado nos primeiros passos em Business Intelligence:
+Projeto prático aprimorado, focado nos primeiros passos e em técnicas essenciais de **Business Intelligence (BI)**. Esta versão traz um layout reformulado e recursos interativos avançados para uma melhor experiência de usuário.
+
+## 🛠️ O que foi abordado / Etapas do Projeto
 
 * **Tratamento:** Limpeza e carga básica de dados
 * **Análise:** Entendimento e exploração das informações
 * **Visualização:** Montagem e formatação dos visuais
 
-📥 *Faça o download do arquivo `.pbix` para interagir no Power BI Desktop.*
+## ✨ Novidades desta Versão
+* **Layout Modernizado:** Nova identidade visual e organização dos elementos em tela.
+* **Interatividade:** Inclusão de botões dinâmicos para navegação intuitiva.
+* **Alternância de Gráficos:** Implementação de botões vinculados a *bookmarks* para alternar entre diferentes visuais no mesmo espaço de tela de forma fluida.
+
+---
+
+**Como interagir:**
+📥Faça o download do arquivo `.pbix` disponível neste repositório e abra-o no **Power BI Desktop** para explorar todas as interações, botões e marcadores!
