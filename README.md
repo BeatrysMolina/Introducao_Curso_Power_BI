@@ -7,7 +7,7 @@ Projeto prático aprimorado, focado nos primeiros passos e em técnicas essencia
 * **Tratamento:** Limpeza e carga básica de dados
 * **Análise:** Entendimento e exploração das informações
 * **Visualização:** Montagem e formatação dos visuais
-* * **Tratamento e Enriquecimento de Tabelas:** Limpeza de colunas desnecessárias, remoção de duplicatas e tipagem correta de dados para otimização de performance.
+* **Tratamento e Enriquecimento de Tabelas:** Limpeza de colunas desnecessárias, remoção de duplicatas e tipagem correta de dados para otimização de performance.
  
 
 ## ✨ Novidades desta Versão
